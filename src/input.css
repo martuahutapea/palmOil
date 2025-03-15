@@ -9,6 +9,7 @@ html {
 /* Custom styles */
 body {
   @apply bg-green-950 text-white font-sans tracking-wider;
+  font-family: "Jost", cursive;
 }
 
 .font-lobster {

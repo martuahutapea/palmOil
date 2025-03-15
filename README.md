@@ -1,19 +1,26 @@
-# My Awesome Project
+# It'sMIHH Palm Oil
 
 ![Homepage](/assets/img/cart-1.png)
 
-## Description
+<div align="center">
+  <img src="/assets/img/dashboard.jpg" alt="Homepage Screenshot" border-radius="15px" />
+</div>
 
-This project is a web application that helps users manage their tasks efficiently. It includes features like task creation, reminders, and progress tracking.
+# Plant Paradise: Your Online Garden Center
+
+This project is a web application designed to provide a seamless online experience for plant enthusiasts. It offers a curated selection of high-quality plants, coupled with resources to ensure successful cultivation.
+
+## Key Features
+
+- **Plant Catalog:** Browse a diverse collection of indoor and outdoor plants, each with detailed descriptions and care instructions.
+- **User-Friendly Shopping:** Easily add plants to your cart, manage your orders, and track deliveries.
+- **Expert Plant Care Guides:** Access comprehensive resources for plant maintenance, including watering schedules, sunlight requirements, and troubleshooting tips.
+- **Responsive Design:** Enjoy a consistent experience across all devices, from desktops to mobile phones.
 
 ## Live Demo
 
 Check out the live demo of the project: [View Demo](https://your-project-url.com)
 
-- Netlify: `https://your-project.netlify.app`
-
 ## Technologies Used
 
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
+- Try new features of the Tailwind Version 4.

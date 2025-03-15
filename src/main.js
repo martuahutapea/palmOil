@@ -18,7 +18,7 @@ navLink.forEach((link) => {
 /*~~~~~~~~~~~~~~~ SHOW SCROLL UP ~~~~~~~~~~~~~~~*/
 const scrollUp = () => {
   const scrollUpBtn = document.getElementById("scroll-up");
-  if (this.scrollY >= 250) {
+  if (window.scrollY >= 250) {
     scrollUpBtn.classList.remove("-bottom-1/2");
     scrollUpBtn.classList.add("bottom-4");
   } else {
@@ -32,7 +32,7 @@ window.addEventListener("scroll", scrollUp);
 /*~~~~~~~~~~~~~~~ CHANGE BACKGROUND HEADER ~~~~~~~~~~~~~~~*/
 const scrollHeader = () => {
   const header = document.getElementById("navbar");
-  if (this.scrollY >= 250) {
+  if (window.scrollY >= 250) {
     header.classList.add("bottom-b", "border-yellow-500");
   } else {
     header.classList.remove("bottom-b", "border-yellow-500");
@@ -110,11 +110,11 @@ sr.reveal(
 );
 sr.reveal(`.home__image`, { delay: 500, scale: 0.5 });
 
-sr.reveal(`.service__card, popular_card`, { interval: 100 });
+sr.reveal(`.service__card, .popular_card`, { interval: 100 });
 
 sr.reveal(`.about__leaf`, { delay: 1000, origin: "right" });
 
-sr.reveal(`about__item__1-content, .about__item__2-img`, {
+sr.reveal(`.about__item__1-content, .about__item__2-img`, {
   delay: 1000,
   origin: "right",
 });

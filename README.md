@@ -1,7 +1,5 @@
 # It'sMIHH Palm Oil
 
-![Homepage](/assets/img/cart-1.png)
-
 <div align="center">
   <img src="/assets/img/dashboard.jpg" alt="Homepage Screenshot" border-radius="15px" />
 </div>
@@ -19,7 +17,7 @@ This project is a web application designed to provide a seamless online experien
 
 ## Live Demo
 
-Check out the live demo of the project: [View Demo](https://your-project-url.com)
+Check out the live demo of the project: [View Demo](https://itsmihh-palmoil.netlify.app/)
 
 ## Technologies Used
 
